@@ -28,6 +28,3 @@
 - `WaterFragment.kt` - экран водного баланса
 - `NutritionFragment.kt` - экран питания
 - `SettingsFragment.kt` - экран настроек
-
-## Автор
-[Ваше имя/группа]
